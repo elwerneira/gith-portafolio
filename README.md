@@ -1,2 +1,2 @@
 # Portafolio
-Para subir  los archivos deñ proyecto de titulo con referencia a Grandtour (Escritorio)
+Para subir los archivos del proyecto de portafolio de titulo con referencia a GrandTour (Escritorio, Movil y Web)
