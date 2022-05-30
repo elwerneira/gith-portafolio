@@ -20,7 +20,7 @@ public class Consultas extends Conexion{
         PreparedStatement ps = null;
         Connection con = (Connection) getConexion();
         
-        String sql = "INSERT INTO productos (producto,tipo,nombre,precio,cantidad,fecha_compra) VALUES (?,?,?,?,?,?)";
+        String sql = "Update INTO productos (producto,tipo,nombre,precio,cantidad,fecha_compra) VALUES (?,?,?,?,?,?)";
         try
         {
             ps = con.prepareStatement(sql);
